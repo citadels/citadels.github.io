@@ -1,0 +1,27 @@
+body
+{ 
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+	background: #efe6dd;
+}
+
+.face
+{
+	width: 100px;
+	float: left;
+	height: 100%;
+}
+
+.text
+{
+	width: calc(100% - 310px);
+	display: inline-block;
+}
+
+.cyclopes
+{
+	width: 200px;
+	float: right;
+}
+
+.cyclopes img { width: 100%; }
