@@ -1,8 +1,13 @@
+html { height: 100%; }
+.cyclopes img { width: 100%; }
+.last { text-align: center; }
+
 body
 { 
 	font-family: Verdana, sans-serif;
 	font-size: 12px;
 	background: #efe6dd;
+	height: 100%;
 }
 
 .face
@@ -24,9 +29,20 @@ body
 	float: right;
 }
 
-.cyclopes img { width: 100%; }
-
-.last
+.all
 {
-	text-align: center;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.splash
+{
+  position: absolute;
+  height: 324px;
+  width: 721px;
+  padding: 20px;
+  margin: -182px 0 0 -380px;
+  left: 50%;
+  top: 50%;
 }
