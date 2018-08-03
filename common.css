@@ -1,6 +1,13 @@
 html { height: 100%; }
 .cyclopes img { width: 100%; }
-.last { text-align: center; }
+.last, .cen { text-align: center; }
+.rig { text-align: right; }
+
+blockquote
+{
+	border: solid 2px black;
+	padding: 5px;
+}
 
 body
 { 
