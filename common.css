@@ -53,3 +53,11 @@ body
   left: 50%;
   top: 50%;
 }
+
+.nick, .nick:visited, .nick:hover
+{
+	color: green;
+	font-weight: bold;
+	text-decoration: none;
+	font-style: normal;
+}
