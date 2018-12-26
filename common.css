@@ -52,6 +52,7 @@ body
   margin: -182px 0 0 -380px;
   left: 50%;
   top: 50%;
+  text-align: center;
 }
 
 .nick, .nick:visited, .nick:hover
