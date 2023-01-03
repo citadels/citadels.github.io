@@ -74,3 +74,7 @@ body
 {
 	height: 200px;
 }
+
+li.yes {color: green;}
+li.noo {color: red;}
+li.yes span, li.no span {color: black;}
