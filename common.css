@@ -3,6 +3,8 @@ html { height: 100%; }
 .last, .cen { text-align: center; }
 .rig { text-align: right; }
 
+iframe {border: 0}
+
 blockquote
 {
 	border: solid 2px black;
@@ -78,3 +80,8 @@ body
 li.yes {color: green;}
 li.noo {color: red;}
 li.yes span, li.no span {color: black;}
+
+a:link, a:visited{color:#0000AA}
+ul.good {list-style-type: none;}
+ul.good li:before {content: "⭐"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
+ul.baad li:before {content: "★"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
