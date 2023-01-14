@@ -79,7 +79,7 @@ body
 
 li.yes {color: green;}
 li.noo {color: red;}
-li.yes span, li.no span {color: black;}
+li.yes span, li.noo span {color: black;}
 
 a:link, a:visited{color:#0000AA}
 ul.good {list-style-type: none;}
