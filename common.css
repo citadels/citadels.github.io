@@ -77,11 +77,12 @@ body
 	height: 200px;
 }
 
-li.yes {color: green;}
-li.noo {color: red;}
-li.yes span, li.noo span {color: black;}
+li.yes, dd.yes {color: green;}
+li.noo, dd.noo {color: red;}
+li.yes span, li.noo span, dd.yes span, dd.noo span {color: black;}
 
 a:link, a:visited{color:#0000AA}
 ul.good {list-style-type: none;}
 ul.good li:before {content: "⭐"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
 ul.baad li:before {content: "★"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
+dt {font-weight: bold;}
