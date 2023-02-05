@@ -86,3 +86,5 @@ ul.good {list-style-type: none;}
 ul.good li:before {content: "⭐"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
 ul.baad li:before {content: "★"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
 dt {font-weight: bold;}
+
+img.noo {border: solid red 4px;}
