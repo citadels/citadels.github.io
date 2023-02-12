@@ -78,8 +78,8 @@ body
 	max-width: 20%;
 }
 
-li.yes, dd.yes {color: green;}
-li.noo, dd.noo {color: red;}
+li.yes, dd.yes, li.yes a {color: green;}
+li.noo, dd.noo, li.noo a {color: red;}
 li.yes span, li.noo span, dd.yes span, dd.noo span {color: black;}
 
 a:link, a:visited{color:#0000AA}
