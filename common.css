@@ -74,7 +74,8 @@ body
 
 .pic5
 {
-	height: 200px;
+	max-height: 200px;
+	max-width: 20%;
 }
 
 li.yes, dd.yes {color: green;}
