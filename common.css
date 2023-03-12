@@ -81,6 +81,7 @@ body
 li.yes, dd.yes, li.yes a {color: green;}
 li.noo, dd.noo, li.noo a {color: red;}
 li.yes span, li.noo span, dd.yes span, dd.noo span {color: black;}
+.yes span a, .noo span a {color: blue;}
 
 a:link, a:visited{color:#0000AA}
 ul.good {list-style-type: none;}
@@ -89,3 +90,12 @@ ul.baad li:before {content: "★"; margin-left: -1em; padding-right: 5px; text-i
 dt {font-weight: bold;}
 
 img.noo {border: solid red 4px;}
+
+.box
+{
+	height: 12px;
+	width: 12px;
+	display: inline-grid;
+	margin-right: 5px;
+	border: 0.5px solid black;
+}
