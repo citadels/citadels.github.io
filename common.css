@@ -76,6 +76,7 @@ body
 {
 	max-height: 200px;
 	max-width: 20%;
+	min-width: 150px;
 }
 
 li.yes, dd.yes, li.yes a {color: green;}
