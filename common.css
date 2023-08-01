@@ -72,6 +72,12 @@ body
 	max-width: 1000px;
 }
 
+.pic5a
+{
+	max-height: 200px;
+	max-width: 20%;
+}
+
 .pic5
 {
 	max-height: 200px;
