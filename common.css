@@ -57,7 +57,7 @@ body
   text-align: center;
 }
 
-.nick, .nick:visited, .nick:hover
+.nick, .nick:link, .nick:visited, .nick:hover
 {
 	color: green;
 	font-weight: bold;
