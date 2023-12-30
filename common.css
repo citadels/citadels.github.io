@@ -93,8 +93,8 @@ li.yes span, li.noo span, dd.yes span, dd.noo span {color: black;}
 
 a:link, a:visited{color:#0000AA}
 ul.good {list-style-type: none;}
-ul.good li:before {content: "⭐"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
-ul.baad li:before {content: "★"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
+ul.good li:before {content: "💚"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
+ul.baad li:before {content: "💔"; margin-left: -1em; padding-right: 5px; text-indent: -1em;}
 dt {font-weight: bold;}
 
 img.noo {border: solid red 4px;}
