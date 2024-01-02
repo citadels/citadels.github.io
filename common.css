@@ -2,6 +2,9 @@ html { height: 100%; }
 .cyclopes img { width: 100%; }
 .last, .cen { text-align: center; }
 .rig { text-align: right; }
+.rnd {border-radius: 20px;}
+figure { text-align: center; font-weight: bold; float: left; margin: 10px; }
+.dim {opacity: 0.3;}
 
 iframe {border: 0}
 
