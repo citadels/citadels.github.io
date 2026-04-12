@@ -115,3 +115,6 @@ img.noo {border: solid red 4px;}
 	margin-right: 5px;
 	border: 0.5px solid black;
 }
+
+.hl {background-color: #ffffcc}
+del {text-decoration-style: double;}
