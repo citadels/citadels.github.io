@@ -92,6 +92,7 @@ body
 	max-width: 20%;
 	min-width: 150px;
 	vertical-align: middle;
+	object-fit: contain;
 }
 
 li.yes, dd.yes, li.yes a {color: green;}
