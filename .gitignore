@@ -1,3 +1,5 @@
+*.numbers
+*.py
 .DS_Store
 emu
 esper
